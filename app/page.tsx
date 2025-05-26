@@ -67,7 +67,7 @@ export default function Home() {
           </div>
         )}
       </main>
-      <footer className="border-t py-6 px-5">
+      <footer className="border-t py-6  px-5">
         <div className="container flex flex-col items-center justify-between gap-4 md:flex-row">
           <p className="text-center text-sm text-muted-foreground">
             &copy; {new Date().getFullYear()} Notes App. All rights reserved.
